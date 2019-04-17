@@ -1,0 +1,10 @@
+#folder
+out/
+target/
+.idea/
+
+#files
+*.class
+*.log
+*.jar
+*.iml
